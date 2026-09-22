@@ -62,7 +62,3 @@ The notebook reads `diabetes2.csv` directly from the repository root, so no addi
 ## Author
 
 Varun Kumar Kumaravel — IE7275: Data Mining in Engineering, Northeastern University (April 2023).
-
-## License
-
-No license is currently specified for this repository.
